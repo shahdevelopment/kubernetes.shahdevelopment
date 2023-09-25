@@ -1,0 +1,3 @@
+[submodule "kubernetes.shahdevelopment"]
+	path = kubernetes.shahdevelopment
+	url = git@github.com:Shah0373/kubernetes.shahdevelopment.git
